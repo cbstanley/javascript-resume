@@ -10,21 +10,24 @@ var work = {
 		"location": "Oak Ridge, TN",
 		"dates": "2011-present",
 		"description": "Operate a high-throughput neutron scattering instrument \
-		to solve scientific problems."
+		to solve scientific problems"
 	},
 	{
 		"employer": "Oak Ridge National Laboratory",
 		"title": "Clifford Shull Research Fellow",
 		"location": "Oak Ridge, TN",
 		"dates": "2007-2011",
-		"description": "Design and perform research using neutron scattering."
+		"description": "Design and perform research using neutron scattering"
 	},
 	{
 		"employer": "University of Tennessee",
 		"title": "Joint Faculty Assistant Professor",
 		"location": "Knoxville, TN",
 		"dates": "2011-present",
-		"description": "Department of Biochemistry and Cellular and Molecular Biology"
+		"description": "<i>Department of Biochemistry and Cellular and Molecular \
+		Biology</i> <br> \
+		Mentor students, serve on thesis committees <br> \
+		Deliver guest lectures for graduate-level courses"
 	},
 	{
 		"employer": "NIST and NIH",
@@ -33,7 +36,7 @@ var work = {
 		"dates": "2004-2007",
 		"description": "Joint position to perform research across multiple \
 		disciplines, integrate results from different experiments, and develop \
-		mathematical models to fit data."
+		mathematical models to fit data"
 	},
 	{
 		"employer": "University of Massachusetts, Amherst",
@@ -42,7 +45,7 @@ var work = {
 		"dates": "1999-2004",
 		"description": "Determined the interactions of chiral biopolymers using \
 		multiple biophysical methods (circular dichroism, X-ray scattering, \
-		polarized optical microscopy)."
+		polarized optical microscopy)"
 	},
 	{
 		"employer": "Georgia Institute of Technology",
@@ -50,7 +53,7 @@ var work = {
 		"location": "Atlanta, GA",
 		"dates": "1998-1999",
 		"description": "Conducted research on polyimide films, hydrogen bonding \
-		in polyurethanes, MRI on fluid distribution in textiles."
+		in polyurethanes, MRI on fluid distribution in textiles"
 	}]
 };
 
@@ -88,8 +91,9 @@ var education = {
 	}]
 };
 
-var skills = ["Data Analysis and Visualization", "Statistical Analysis",
-		"Scientific Reviews", "Instrumentation", "Characterization",
+var skills = ["Research and Development", "Data Analysis and Visualization",
+		"Statistical Analysis", "Technical Writing", "Scientific Reviews",
+		"Presentations", "Project Management",
 		"<a href=https://orcid.org/0000-0002-4226-7710>Scientific Publications</a>"
 ];
 
