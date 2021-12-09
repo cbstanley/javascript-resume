@@ -106,7 +106,7 @@ var bio = {
 	"skills": skills
 };
 
-document.getElementById("education").style.backgroundColor = "#f5ea90";
+document.getElementById("education").style.backgroundColor = "#e5e8ed";
 
 var formattedName = HTMLheaderName.replace("%data%", bio.name);
 var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
