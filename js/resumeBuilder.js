@@ -6,54 +6,36 @@ var work = {
 	"jobs": [
 	{
 		"employer": "Oak Ridge National Laboratory",
-		"title": "Neutron Scattering Scientist",
+		"title": "Research Scientist | Computational Sciences and Engineering",
 		"location": "Oak Ridge, TN",
-		"dates": "2011-present",
-		"description": "Operate a high-throughput neutron scattering instrument \
-		to solve scientific problems"
+		"dates": "2018-present",
+		"description": "- Machine/Deep learning <br> \
+		- Multiscale simulations and analysis <br> \
+		- Computational docking"
+	},
+	{
+		"employer": "Oak Ridge National Laboratory",
+		"title": "Research Scientist | Neutron Scattering",
+		"location": "Oak Ridge, TN",
+		"dates": "2011-2018",
+		"description": "- Collaborative, multi-disciplinary research <br> \
+		- Data analysis pipelines and modeling"
 	},
 	{
 		"employer": "Oak Ridge National Laboratory",
 		"title": "Clifford Shull Research Fellow",
 		"location": "Oak Ridge, TN",
 		"dates": "2007-2011",
-		"description": "Design and perform research using neutron scattering"
-	},
-	{
-		"employer": "University of Tennessee",
-		"title": "Joint Faculty Assistant Professor",
-		"location": "Knoxville, TN",
-		"dates": "2011-present",
-		"description": "<i>Department of Biochemistry and Cellular and Molecular \
-		Biology</i> <br> \
-		Mentor students, serve on thesis committees <br> \
-		Deliver guest lectures for graduate-level courses"
+		"description": "- Design and perform research using neutron scattering"
 	},
 	{
 		"employer": "NIST and NIH",
 		"title": "National Research Council Postdoctoral Research Associate",
 		"location": "Gaithersburg/Bethesda, MD",
 		"dates": "2004-2007",
-		"description": "Joint position to perform research across multiple \
-		disciplines, integrate results from different experiments, and develop \
-		mathematical models to fit data"
-	},
-	{
-		"employer": "University of Massachusetts, Amherst",
-		"title": "Graduate Research Assistant",
-		"location": "Amherst, MA",
-		"dates": "1999-2004",
-		"description": "Determined the interactions of chiral biopolymers using \
-		multiple biophysical methods (circular dichroism, X-ray scattering, \
-		polarized optical microscopy)"
-	},
-	{
-		"employer": "Georgia Institute of Technology",
-		"title": "Undergraduate Research Assistant",
-		"location": "Atlanta, GA",
-		"dates": "1998-1999",
-		"description": "Conducted research on polyimide films, hydrogen bonding \
-		in polyurethanes, MRI on fluid distribution in textiles"
+		"description": "- Joint position to perform research across multiple \
+		disciplines <br>- Integrate results from different experiments <br> \
+		- Develop mathematical models to fit data"
 	}]
 };
 
@@ -80,27 +62,27 @@ var education = {
 		"location": "Amherst, MA",
 		"degree": "Ph.D.",
 		"major": "Polymer Science and Engineering",
-		"dates": "1999-2004"
+		"dates": ""
 	},
 	{
 		"name": "Georgia Institute of Technology",
 		"location": "Atlanta, GA",
 		"degree": "B.S.",
-		"major": "Polymer and Textile Chemistry",
-		"dates": "1995-1999"
+		"major": "Polymer Chemistry",
+		"dates": ""
 	}]
 };
 
-var skills = ["Research and Development", "Data Analysis and Visualization",
-		"Statistical Analysis", "Technical Writing", "Scientific Reviews",
-		"Presentations", "Project Management",
-		"<a href=https://orcid.org/0000-0002-4226-7710>Scientific Publications</a>"
+var skills = ["Machine/Deep Learning", "Data Science", "Cryptography",
+		"Simulations, Modeling",
+		"Technical Writing", "Presentations", "Project Management",
+		"<a href=https://orcid.org/0000-0002-4226-7710>Scientific Publications</a>",
 ];
 
 var bio = {
-	"name": "Christopher Stanley",
+	"name": "Chris Stanley",
 	"role": "Ph.D. Research Scientist",
-	"contacts": "<a href=https://github.com/cbstanley>My GitHub</a>",
+	"contacts": "<a href=https://github.com/cbstanley>My Github</a>",
 	"photo": "",
 	"message": "",
 	"skills": skills
